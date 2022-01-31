@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+This is a calculator app that is built using React. The CSS for this app is also custom designed according to https://www.youtube.com/watch?v=DgRrrOt0Vr8
+
+This uses javascript concepts:
+String manipulation 
+Many many checks before returning the newState
+
+This uses react concepts like:
+useReducer React Hook.
+
